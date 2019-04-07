@@ -1,0 +1,101 @@
+[ {
+  "uid" : "7ef659782b1d5e8e",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo",
+  "time" : {
+    "start" : 1554608937140,
+    "stop" : 1554608937220,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd0b0298f0bb85c",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail1",
+  "time" : {
+    "start" : 1554608937374,
+    "stop" : 1554608937433,
+    "duration" : 59
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fedd01ddb8cf883",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail",
+  "time" : {
+    "start" : 1554608937269,
+    "stop" : 1554608937372,
+    "duration" : 103
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "68413e430d16ccaf",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+  "time" : {
+    "start" : 1554608937508,
+    "stop" : 1554608937576,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e0a1464823c0153",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd",
+  "time" : {
+    "start" : 1554608936799,
+    "stop" : 1554608936970,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4107910dc3903496",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+  "time" : {
+    "start" : 1554608937577,
+    "stop" : 1554608937728,
+    "duration" : 151
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3320b68e98011a6d",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail2",
+  "time" : {
+    "start" : 1554608937434,
+    "stop" : 1554608937463,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b58f5f46542a3df",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login",
+  "time" : {
+    "start" : 1554608937221,
+    "stop" : 1554608937266,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5550c43cff3900d2",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd1",
+  "time" : {
+    "start" : 1554608936971,
+    "stop" : 1554608937139,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f30b25c42061aa8",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+  "time" : {
+    "start" : 1554608937464,
+    "stop" : 1554608937505,
+    "duration" : 41
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

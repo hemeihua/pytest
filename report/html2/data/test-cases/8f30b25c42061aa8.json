@@ -1,0 +1,72 @@
+{
+  "uid" : "8f30b25c42061aa8",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+  "fullName" : "testcase.C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+  "historyId" : "195b1962e95b2011580bae69b312e319",
+  "time" : {
+    "start" : 1554608937464,
+    "stop" : 1554608937505,
+    "duration" : 41
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 3010 == 410",
+  "statusTrace" : "self = <testcase.sys.test_sys_login.Test_Login object at 0x000001DF5E1098D0>\n\n    @allure.story('用户名为空')\n    def test_login_fail3(self):\n        data = {\n            'userName': '',\n            'password': '456789'\n        }\n        resp = http.post('/sys/login', data)\n>       assert resp['code'] == 410\nE       assert 3010 == 410\n\ntestcase\\sys\\test_sys_login.py:59: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180902WUV"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户名为空"
+  }, {
+    "name" : "thread",
+    "value" : "368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8f30b25c42061aa8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "5b58f5f46542a3df",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login",
+  "fullName" : "testcase.C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login",
+  "historyId" : "ecdfa1ea7f958da8597d929589c728b5",
+  "time" : {
+    "start" : 1554608937221,
+    "stop" : 1554608937266,
+    "duration" : 45
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180902WUV"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "正确登录"
+  }, {
+    "name" : "thread",
+    "value" : "368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b58f5f46542a3df.json",
+  "parameterValues" : [ ]
+}

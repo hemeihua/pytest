@@ -1,0 +1,66 @@
+{
+  "uid" : "7ef659782b1d5e8e",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo",
+  "fullName" : "testcase.C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo",
+  "historyId" : "33f07bc66a6ef8f6f6420845012a71b3",
+  "time" : {
+    "start" : 1554608937140,
+    "stop" : 1554608937220,
+    "duration" : 80
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取用户信息模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180902WUV"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "正确获取用户信息"
+  }, {
+    "name" : "thread",
+    "value" : "368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ef659782b1d5e8e.json",
+  "parameterValues" : [ ]
+}

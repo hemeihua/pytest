@@ -1,0 +1,69 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 301 == 410",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail",
+        "uid" : "fedd01ddb8cf883",
+        "parentUid" : "676d797a7ba34b7fa175898ac94d7102",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937269,
+          "stop" : 1554608937372,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail1",
+        "uid" : "bd0b0298f0bb85c",
+        "parentUid" : "676d797a7ba34b7fa175898ac94d7102",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937374,
+          "stop" : 1554608937433,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "676d797a7ba34b7fa175898ac94d7102"
+    }, {
+      "name" : "AssertionError: assert 3010 == 410",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+        "uid" : "8f30b25c42061aa8",
+        "parentUid" : "0e9cbd8646cc3a3b9943638ad6b6d807",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937464,
+          "stop" : 1554608937505,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e9cbd8646cc3a3b9943638ad6b6d807"
+    }, {
+      "name" : "AssertionError: assert 1284 == 1089",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+        "uid" : "4107910dc3903496",
+        "parentUid" : "f6f439fc9f15478ea1429daeab5b9db7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937577,
+          "stop" : 1554608937728,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6f439fc9f15478ea1429daeab5b9db7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

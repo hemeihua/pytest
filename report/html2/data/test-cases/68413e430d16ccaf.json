@@ -1,0 +1,66 @@
+{
+  "uid" : "68413e430d16ccaf",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+  "fullName" : "testcase.C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+  "historyId" : "27cb0b52276f86712ee3fe5493f75bf",
+  "time" : {
+    "start" : 1554608937508,
+    "stop" : 1554608937576,
+    "duration" : 68
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180902WUV"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "密码为空"
+  }, {
+    "name" : "thread",
+    "value" : "368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68413e430d16ccaf.json",
+  "parameterValues" : [ ]
+}

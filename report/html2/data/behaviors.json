@@ -1,0 +1,181 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码1*******************",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd",
+        "uid" : "4e0a1464823c0153",
+        "parentUid" : "4964def00c30b5cb42892d95186c7ea4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608936799,
+          "stop" : 1554608936970,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4964def00c30b5cb42892d95186c7ea4"
+    }, {
+      "name" : "修改密码2*******************",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd1",
+        "uid" : "5550c43cff3900d2",
+        "parentUid" : "47be0b1318ddef31f3b7fd242b8b9f23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608936971,
+          "stop" : 1554608937139,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47be0b1318ddef31f3b7fd242b8b9f23"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "获取用户信息模块",
+    "children" : [ {
+      "name" : "正确获取用户信息",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo",
+        "uid" : "7ef659782b1d5e8e",
+        "parentUid" : "5c9d468a3f0c84408b529ed97dbc7904",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608937140,
+          "stop" : 1554608937220,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c9d468a3f0c84408b529ed97dbc7904"
+    } ],
+    "uid" : "de92305d835ca068670dae1d51a782c9"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "正确登录",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login",
+        "uid" : "5b58f5f46542a3df",
+        "parentUid" : "c7ed1c676f22aff11121f7fc6aaa6450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608937221,
+          "stop" : 1554608937266,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7ed1c676f22aff11121f7fc6aaa6450"
+    }, {
+      "name" : "用户名不正确",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail",
+        "uid" : "fedd01ddb8cf883",
+        "parentUid" : "c964e7c8632e894ece6239812ce6a051",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937269,
+          "stop" : 1554608937372,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c964e7c8632e894ece6239812ce6a051"
+    }, {
+      "name" : "用户名太长",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail1",
+        "uid" : "bd0b0298f0bb85c",
+        "parentUid" : "5e447d153be3f3c9580452ea82319e09",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937374,
+          "stop" : 1554608937433,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e447d153be3f3c9580452ea82319e09"
+    }, {
+      "name" : "密码不正确",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail2",
+        "uid" : "3320b68e98011a6d",
+        "parentUid" : "803c848c149bef75f92a99b6872a5f5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608937434,
+          "stop" : 1554608937463,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "803c848c149bef75f92a99b6872a5f5e"
+    }, {
+      "name" : "用户名为空",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+        "uid" : "8f30b25c42061aa8",
+        "parentUid" : "841d48ac11104bee7adc28cae4831e75",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937464,
+          "stop" : 1554608937505,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "841d48ac11104bee7adc28cae4831e75"
+    }, {
+      "name" : "密码为空",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+        "uid" : "68413e430d16ccaf",
+        "parentUid" : "71ec575151a9256d34258d9293a5aa08",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608937508,
+          "stop" : 1554608937576,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71ec575151a9256d34258d9293a5aa08"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "注册模块",
+    "children" : [ {
+      "name" : "注销",
+      "children" : [ {
+        "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+        "uid" : "4107910dc3903496",
+        "parentUid" : "c7f67db8826bca3f777d6ecc7fdbc3c0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608937577,
+          "stop" : 1554608937728,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7f67db8826bca3f777d6ecc7fdbc3c0"
+    } ],
+    "uid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c"
+  } ]
+}

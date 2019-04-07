@@ -1,0 +1,72 @@
+{
+  "uid" : "4107910dc3903496",
+  "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+  "fullName" : "testcase.C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+  "historyId" : "982ea4f6f1d7247ca00cc9b661344b7c",
+  "time" : {
+    "start" : 1554608937577,
+    "stop" : 1554608937728,
+    "duration" : 151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1284 == 1089",
+  "statusTrace" : "self = <testcase.user.test_sys_zhuce.Test_Login object at 0x000001DF5E0FC2B0>\n\n    @allure.story('注销')\n    def test_zhuce(self):\n        data = {\n            \"nickName\":\"wwwuuu\",\n            \"userName\":\"15922922114\",\n            \"telNo\":\"\",\n            \"email\":\"\",\n            \"address\":\"\",\n            \"roleIds\":\"\",\n            \"regionId\":1,\n            \"regionLevel\":1\n        }\n        resp = http.post('/user/saveOrUpdateUser', data)\n        # assert resp['code'] == 401\n        # assert resp['msg'] == \"无权限访问\"\n        print(resp)\n        user=data['userName']\n        id=self.login1(user)\n>       self.huoqu(user,id)\n\ntestcase\\user\\test_sys_zhuce.py:27: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <testcase.user.test_sys_zhuce.Test_Login object at 0x000001DF5E0FC2B0>\nzhuce = '15922922114', id = 1089\n\n    def huoqu(self,zhuce,id):\n        data = {\"pageCurrent\":1,\"pageSize\":10,\"nickName\":\"\",\"userName\":\"\",\"regionId\":1}\n    \n        resp = http.post('/user/loadUserList', data)\n    \n        assert resp['code'] == 200\n        assert resp['msg'] == \"操作成功\"\n>       assert resp['object']['list'][0]['id'] == id\nE       assert 1284 == 1089\n\ntestcase\\user\\test_sys_zhuce.py:48: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180902WUV"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注销"
+  }, {
+    "name" : "thread",
+    "value" : "368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4107910dc3903496.json",
+  "parameterValues" : [ ]
+}

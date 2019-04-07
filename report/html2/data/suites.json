@@ -1,0 +1,129 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd",
+      "uid" : "4e0a1464823c0153",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608936799,
+        "stop" : 1554608936970,
+        "duration" : 171
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd1",
+      "uid" : "5550c43cff3900d2",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608936971,
+        "stop" : 1554608937139,
+        "duration" : 168
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserInfo",
+      "uid" : "7ef659782b1d5e8e",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608937140,
+        "stop" : 1554608937220,
+        "duration" : 80
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login",
+      "uid" : "5b58f5f46542a3df",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608937221,
+        "stop" : 1554608937266,
+        "duration" : 45
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail",
+      "uid" : "fedd01ddb8cf883",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1554608937269,
+        "stop" : 1554608937372,
+        "duration" : 103
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail1",
+      "uid" : "bd0b0298f0bb85c",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1554608937374,
+        "stop" : 1554608937433,
+        "duration" : 59
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail2",
+      "uid" : "3320b68e98011a6d",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608937434,
+        "stop" : 1554608937463,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+      "uid" : "8f30b25c42061aa8",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1554608937464,
+        "stop" : 1554608937505,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+      "uid" : "68413e430d16ccaf",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608937508,
+        "stop" : 1554608937576,
+        "duration" : 68
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\Administrator\\PycharmProjects\\pytest\\testcase\\user.test_sys_zhuce.Test_Login.test_zhuce",
+      "uid" : "4107910dc3903496",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1554608937577,
+        "stop" : 1554608937728,
+        "duration" : 151
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}
